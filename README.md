@@ -1,4 +1,4 @@
-To observe the results of the cloned code, follow these steps:
+To observe the results of the NetflixUI_cloned code, follow these steps:
 
 >  Open the terminal and execute the following command to install the necessary dependencies:    npm install
   
