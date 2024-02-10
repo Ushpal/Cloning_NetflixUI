@@ -1,9 +1,9 @@
 To observe the results of the NetflixUI_cloned code, follow these steps:
 
->  Open the terminal and execute the following command to install the necessary dependencies:    npm install
+>  Open the terminal and execute the following command to install the necessary dependencies:```bash npm install ```
   
   
->  Once the installation is complete, start the application by running the following command in the terminal:    npm start
+>  Once the installation is complete, start the application by running the following command in the terminal:```bash npm start ```
 
   
    By executing these commands, you will install the required Node.js dependencies and initiate the application. Make sure to review any console output or logs for 
